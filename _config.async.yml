@@ -1,0 +1,83 @@
+language: zh-Hans
+
+theme:
+  switch: true
+  default: style-dark
+
+  
+favicon:
+  logo: https://cdn.luogu.com.cn/upload/image_hosting/db0274ye.png
+  icon16: https://cdn.luogu.com.cn/upload/usericon/514850.png
+  icon32: https://cdn.luogu.com.cn/upload/usericon/514850.png
+  apple_touch_icon: apple-touch-icon.png
+  webmanifest: /site.webmanifest
+  visibilitychange: true
+  hidden: failure.ico
+  show_text: (/≧▽≦/)咦！又好了！
+  hide_text: 加载失败...
+  
+user:
+  name: ACerKa1o
+  first_name: Shawn
+  last_name: Chen
+  email: what667172@163.com
+  domain: https://blog.acerkaio.top/
+  avatar: https://cdn.luogu.com.cn/upload/usericon/514850.png
+  describe: 网站简介。
+  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+
+sidebar:
+  social: # 社交地址
+    - name: github
+      icon: fab fa-github
+      url: https://github.com/Acerkaio
+    - name: steam
+      icon: fab fa-steam
+      url: https://steamcommunity.com/id/Acerkaio/
+    - name: 知乎
+      icon: fab fa-zhihu
+      url: https://www.zhihu.com/people/acerkaio
+    - name: 洛谷
+      icon: fas fa-code
+      url: https://www.luogu.com/user/514850
+  typed_text_prefix: I`m
+  typed_text: ["an ordinary person."]
+  info:
+    - key: 地址
+      val: CHINA
+    - key: 年龄
+      val: 15
+banner:
+  index:
+    type: video
+    bgurl: /img/晚上.mp4
+    video_url: /img/晚上.mp4
+    banner_title: 花径不曾缘客扫，<br>蓬门今始为君开。
+    banner_text: Hola, Acerkaio here!
+	danmu: 
+		enable: true
+		avatar: true
+		delayRange: 5000
+		speed: 80
+footer:
+  powered:
+    enable: true
+  beian:
+    enable: false
+    icp:
+  copyright_year: 2022
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 01/10/2022 17:00:00
+  custom_text: HOLA!
+lazyload:
+  enable: true
+notice_outdate:
+  enable: true
+  style: flat
+  limit_day: 365
+  position: top
+rightside:
+  readmode: true
+  aside: true
