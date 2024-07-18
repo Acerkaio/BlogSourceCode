@@ -3,7 +3,9 @@
 ## 本地运行此项目:
 
 克隆仓库：`git clone https://github.com/Acerkaio/BlogSourceCode`；
+
 切换到项目目录：`cd BlogSourceCode`；
+
 可能已经部署了 `hexo`，请运行：`hexo s`。
 
 ## 目前发展方向：
