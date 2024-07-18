@@ -69,7 +69,7 @@ footer:
   live_time:
     enable: true
     prefix: footer.tips
-    start_time: 01/10/2022 17:00:00
+    start_time: 08/30/2022 00:00:00
   custom_text: HOLA!
 lazyload:
   enable: true
@@ -112,6 +112,6 @@ links:
 about:
   insert: before # 插入规则 before（插入在内容前） | after（插入在内容后） | none（不插入）
   title: 花径不曾缘客扫，蓬门今始为君开。
-  introduction: 这是个神秘的地方：是个人的日志，是中二的语集，是成长的见证？至少我希望总能在互联网的波涛中绽放光彩。
-  blog: 发电日常罢了
+  introduction: <strong>这是个神秘的地方：是个人的日志，是中二的语集，是成长的见证？至少我希望总能在互联网的波涛中绽放光彩。</strong><br><br> <span>——Acerkaio/Shawn</div>
+  blog: <h4>发电日常罢了</h4><br>程序：Hexo<br>主题：Hexo-theme-async<br>托管：Vercel
   privacy: # 隐私权说明
