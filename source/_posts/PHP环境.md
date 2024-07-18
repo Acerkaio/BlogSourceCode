@@ -4,6 +4,12 @@ date: 2022-12-23 17:56:46
 tags: 记录
 categories: 记录
 photos: /img/php.jpg
+cover: [/img/php.jpg]
+banner:
+  type: img
+  bgurl: https://pic1.zhimg.com/v2-b3c2c6745b9421a13a3c4706b19223b3_r.jpg
+  banner_text: Hola! This is a article about OI...
+toc: true
 ---
 ## 0. 前言
 

@@ -4,7 +4,7 @@ date: 2023-03-12 13:40:23
 tags: 学习笔记
 categories: 学习笔记
 photos: /img/kmp.png
-cover: [/img/kmp.png]
+cover: [/img/tj.jpg]
 banner:
   type: img
   bgurl: https://pic1.zhimg.com/v2-b3c2c6745b9421a13a3c4706b19223b3_r.jpg

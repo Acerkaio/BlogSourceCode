@@ -6,7 +6,7 @@ theme:
 
   
 favicon:
-  logo: https://cdn.luogu.com.cn/upload/image_hosting/db0274ye.png
+  logo: https://counter.imalun.com/www.acerkaio.top?theme=rule34
   icon16: https://cdn.luogu.com.cn/upload/usericon/514850.png
   icon32: https://cdn.luogu.com.cn/upload/usericon/514850.png
   apple_touch_icon: apple-touch-icon.png
@@ -18,8 +18,8 @@ favicon:
   
 user:
   name: ACerKa1o
-  first_name: Shawn
-  last_name: Chen
+  first_name: 
+  last_name: 
   email: what667172@163.com
   domain: https://blog.acerkaio.top/
   avatar: https://cdn.luogu.com.cn/upload/usericon/514850.png
@@ -81,3 +81,37 @@ notice_outdate:
 rightside:
   readmode: true
   aside: true
+  
+top_bars:
+  - title: menu.home
+    url: /
+  - title: menu.archives
+    url: /archives/
+  - title: menu.links
+    url: /links/
+  - title: menu.about
+    url: /about/
+  - title: album
+    url: /album/
+    
+
+links:
+  - name: hellolin
+    url: //www.hellolin.top/
+    image: //cdn.luogu.com.cn/upload/usericon/751017.png
+    desc: 现役 OIer / 前端技术爱好者
+  - name: Tibrella
+    url: //tibrella.space/
+    image: //tibrella.space/img/avatar.webp
+    desc: Wash away the anger. 
+  - name: 白云苍狗
+    url: //www.imalun.com/
+    image: //www.imalun.com/images/avatar.jpg
+    desc: 醒，亦在人间；梦，亦在人间
+
+about:
+  insert: before # 插入规则 before（插入在内容前） | after（插入在内容后） | none（不插入）
+  title: 花径不曾缘客扫，蓬门今始为君开。
+  introduction: 这是个神秘的地方：是个人的日志，是中二的语集，是成长的见证？至少我希望总能在互联网的波涛中绽放光彩。
+  blog: 发电日常罢了
+  privacy: # 隐私权说明
