@@ -50,8 +50,8 @@ sidebar:
 banner:
   index:
     type: video
-    bgurl: /img/晚上.mp4
-    video_url: /img/晚上.mp4
+    bgurl: https://cdn.jsdelivr.net/gh/Acerkaio/ImageHost/test/%E6%99%9A%E4%B8%8A.mp4
+    video_url: https://cdn.jsdelivr.net/gh/Acerkaio/ImageHost/test/%E6%99%9A%E4%B8%8A.mp4
     banner_title: 花径不曾缘客扫，<br>蓬门今始为君开。
     banner_text: Hola, Acerkaio here!
 	danmu: 
