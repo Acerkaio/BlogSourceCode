@@ -6,7 +6,7 @@ theme:
 
   
 favicon:
-  logo: https://counter.imalun.com/www.acerkaio.top?theme=rule34
+  logo: https://api.anyfan.top/count/?name=www.acerkaio.top&theme=rule34
   icon16: https://cdn.luogu.com.cn/upload/usericon/514850.png
   icon32: https://cdn.luogu.com.cn/upload/usericon/514850.png
   apple_touch_icon: apple-touch-icon.png
@@ -50,7 +50,7 @@ sidebar:
 banner:
   index:
     type: video
-    bgurl: https://cdn.jsdelivr.net/gh/Acerkaio/ImageHost/test/%E6%99%9A%E4%B8%8A.mp4
+    bgurl: https://jsd.proxy.aks.moe/gh/Acerkaio/ImageHost@main/test/%E6%99%9A%E4%B8%8A.mp4
     banner_title: 花径不曾缘客扫，<br>蓬门今始为君开。
     banner_text: Hola, Acerkaio here!
 	danmu: 
@@ -91,7 +91,7 @@ top_bars:
   - title: menu.about
     url: /about/
   - title: album
-    url: /album/
+    url: //pic.acerkaio.top/
     
 
 links:
