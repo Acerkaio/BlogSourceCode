@@ -1,8 +1,8 @@
 ---
 title: Vercel 后端上手
 date: 2024-09-19 17:40:40
-tags: 学习笔记
-categories: 学习笔记
+tags: 记录
+categories: 记录
 cover: [/img/tj.jpg]
 banner:
   type: img
