@@ -114,3 +114,34 @@ about:
   introduction: <strong>这是个神秘的地方：是个人的日志，是中二的语集，是成长的见证？至少我希望总能在互联网的波涛中绽放光彩。</strong><br><br> <span>——Acerkaio/Shawn</div>
   blog: <h4>发电日常罢了</h4><br>程序：Hexo<br>主题：Hexo-theme-async<br>托管：Vercel
   privacy: # 隐私权说明
+
+# Theme resource files or plug-ins | 插件配置
+assets:
+  internal_provider: local # The cdn configuration of the js inside the theme | 主题脚本的 CDN 配置
+  third_party_provider: unpkg # cdn configuration of third-party js | 第三方插件 CDN 配置
+  plugin: ## The plug-in used by the theme
+    hexo_theme_async:
+      rowcss: css/plugins/bootstrap.row.css
+      typing: js/plugins/typing.js
+      search: js/plugins/local_search.js
+      danmu: js/plugins/danmu.js
+      main: js/main.js
+  icons: ## Icon configuration
+    type: font # font symbol
+    css: css/plugins/font-awesome.min.css # icon css
+    js: # icon js
+# That is it only render those page which has `katex: true` in Front-matter.
+# math fomula
+## https://katex.org/
+katex:
+  copy_tex: true
+  global: true
+  # Options are for katex rendering options: https://katex.org/docs/options.html
+  # In page katex options are also possible and will be merged
+  options: {}
+
+
+# Think of swup as being pjax on steroids. The concepts are similar to those used in barba.js or other transition libraries.
+# https://swup.js.org/
+# Whether swup is enabled | Swup 插件
+swup: true # 启用
