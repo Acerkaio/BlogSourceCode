@@ -110,7 +110,7 @@ links:
   - name: Love_Elaina
     url: //elainaelaina.com/
     image: //elainaelaina.com/images/avatar.jpg
-    desc: 北海虽赊，扶摇可接；东隅已逝，桑榆非晚。
+    desc: 北海虽赊，扶摇可接；<br>东隅已逝，桑榆非晚。
 
 about:
   insert: before # 插入规则 before（插入在内容前） | after（插入在内容后） | none（不插入）
