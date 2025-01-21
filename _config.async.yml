@@ -23,8 +23,8 @@ user:
   email: what667172@163.com
   domain: https://blog.acerkaio.top/
   avatar: https://cdn.luogu.com.cn/upload/usericon/514850.png
-  describe: 网站简介。
-  rule_text: 暂不接受个人博客以外的友链申请，确保您的网站内容积极向上，文章至少30篇，原创70%以上，部署HTTPS。
+  describe: I`M AN ORDINARY PERSON.
+  rule_text: 快和我交换友链！。
 
 sidebar:
   social: # 社交地址
@@ -107,6 +107,10 @@ links:
     url: //www.imalun.com/
     image: //www.imalun.com/images/avatar.jpg
     desc: 醒，亦在人间；梦，亦在人间
+  - name: Love_Elaina
+    url: //elainaelaina.com/
+    image: //elainaelaina.com/images/avatar.jpg
+    desc: 北海虽赊，扶摇可接；东隅已逝，桑榆非晚。
 
 about:
   insert: before # 插入规则 before（插入在内容前） | after（插入在内容后） | none（不插入）
