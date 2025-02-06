@@ -90,8 +90,8 @@ top_bars:
     url: /links/
   - title: menu.about
     url: /about/
-  - title: album
-    url: //pic.acerkaio.top/
+  - title: 相册
+    url: /album/
     
 
 links:
