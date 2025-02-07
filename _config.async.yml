@@ -92,6 +92,8 @@ top_bars:
     url: /about/
   - title: 相册
     url: /album/
+  - title: 书架
+    url: /books/
     
 
 links:
@@ -148,4 +150,4 @@ katex:
 # Think of swup as being pjax on steroids. The concepts are similar to those used in barba.js or other transition libraries.
 # https://swup.js.org/
 # Whether swup is enabled | Swup 插件
-swup: true # 启用
+swup: false # 启用
